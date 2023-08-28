@@ -8,7 +8,7 @@ such as.
 - Allow the user to click a button that will display a 7-day forecast.
 - As well as some other features such as a light/dark mode and celsius to farenheight switcher.
 
-Live Link - 
+Live Link - https://bryanf1nes.github.io/Weather-App/
 
 # Utilities Used #
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
